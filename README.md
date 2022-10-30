@@ -1,1 +1,1 @@
-- Consider reading my blog [here](supermarinesoftware.com)
+- Consider reading my blog [here](https://www.supermarinesoftware.com)
