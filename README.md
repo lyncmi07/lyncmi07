@@ -1,3 +1,3 @@
 - Consider reading my blog [here](https://www.supermarinesoftware.com)
-- Here is a game with rather poor graphics where you jump over a box: [Super Trooper](http://games.temporalresearch.co.uk/super_trooper.html)
-- Here is another game with even poorer graphics where you avoid boxes: [Newark Street Dash](http://games.temporalresearch.co.uk/newark_street_dash.html)
+- Here is a game with rather poor graphics where you jump over a box: [Super Trooper](http://games.supermarinesoftware.com/super_trooper.html)
+- Here is another game with even poorer graphics where you avoid boxes: [Newark Street Dash](http://games.supermarinesoftware.com/newark_street_dash.html)
